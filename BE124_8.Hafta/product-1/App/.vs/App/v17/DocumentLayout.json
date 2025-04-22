@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\product-1\\app\\app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\product-1\\app\\app.api\\data\\entitites\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\entitites\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\product-1\\app\\app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3A021-9BA6-42D5-B802-25A966BB62D2}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Data\\Entitites\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\Entitites\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Data\\Entitites\\ProductEntity.cs",
+              "RelativeToolTip": "App.Api\\Data\\Entitites\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:02:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "App.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:01:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\product-1\\App\\App.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:00:07.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

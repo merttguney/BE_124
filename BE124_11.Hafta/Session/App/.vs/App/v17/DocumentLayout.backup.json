@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\session\\app\\app.web.mvc\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\session\\app\\app.web.mvc\\views\\session\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\session\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\session\\app\\app.web.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C0208C-EB41-44D5-B727-2EC2ADD662D4}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 172,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:27:16.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Program.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:51:22.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Views\\Session\\Show.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Session\\Show.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\Session\\App\\App.Web.Mvc\\Views\\Session\\Show.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Session\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T19:31:52.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

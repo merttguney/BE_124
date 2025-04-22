@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\cookie-1\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14958B7F-255E-454F-8B59-C4E53B9A019C}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\cookie-1\\app\\app.web.mvc\\views\\cookie\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14958B7F-255E-454F-8B59-C4E53B9A019C}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\cookie\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14958B7F-255E-454F-8B59-C4E53B9A019C}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\cookie-1\\app\\app.web.mvc\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14958B7F-255E-454F-8B59-C4E53B9A019C}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\cookie-1\\App\\App.Web.Mvc\\Views\\Cookie\\Show.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Cookie\\Show.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\cookie-1\\App\\App.Web.Mvc\\Views\\Cookie\\Show.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Cookie\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T18:14:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\cookie-1\\App\\App.Web.Mvc\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\cookie-1\\App\\App.Web.Mvc\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\CookieController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:45:42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

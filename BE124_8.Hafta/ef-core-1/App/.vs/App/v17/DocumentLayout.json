@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-1\\app\\app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-1\\app\\app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-1\\app\\app.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AFEEB0-CB20-4C41-A8F8-BB3C4E214CBC}|App.Api\\App.Api.csproj|solutionrelative:app.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "App.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:29:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "App.Api\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Models\\UserModel.cs",
+              "RelativeToolTip": "App.Api\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:26:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-1\\App\\App.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:24:09.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\2-cookie-login\\app\\app.web.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5AFFB0-70F5-49A4-8211-6E3716D533DA}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:16:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T20:04:23.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:32:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:36:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:26:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:24:05.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\2-Cookie-Login\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:21:25.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

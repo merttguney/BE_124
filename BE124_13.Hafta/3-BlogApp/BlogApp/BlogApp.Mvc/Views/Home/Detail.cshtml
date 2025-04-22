@@ -1,0 +1,10 @@
+﻿@using BlogApp.Data.Entities
+@model BlogPostEntity
+
+<div class="text-center">
+    <h1 class="mb-3">@Model.Title</h1>
+    <div>
+        <div>@Model.CreatedAt.ToString("dd.MM.yyyy HH:mm")</div>
+    </div>
+    <p class="m-4">@Html.Raw(Model.Content)</p>
+</div>

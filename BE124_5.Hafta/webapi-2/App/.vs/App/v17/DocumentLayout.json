@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\5.Hafta\\webapi-2\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F7420D-B53C-442C-BFE3-ACEE88886618}|App.WebApi\\App.WebApi.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\5.hafta\\webapi-2\\app\\app.webapi\\controllers\\outputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F7420D-B53C-442C-BFE3-ACEE88886618}|App.WebApi\\App.WebApi.csproj|solutionrelative:app.webapi\\controllers\\outputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F7420D-B53C-442C-BFE3-ACEE88886618}|App.WebApi\\App.WebApi.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\5.hafta\\webapi-2\\app\\app.webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F7420D-B53C-442C-BFE3-ACEE88886618}|App.WebApi\\App.WebApi.csproj|solutionrelative:app.webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutputsController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\5.Hafta\\webapi-2\\App\\App.WebApi\\Controllers\\OutputsController.cs",
+              "RelativeDocumentMoniker": "App.WebApi\\Controllers\\OutputsController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\5.Hafta\\webapi-2\\App\\App.WebApi\\Controllers\\OutputsController.cs",
+              "RelativeToolTip": "App.WebApi\\Controllers\\OutputsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:49:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\5.Hafta\\webapi-2\\App\\App.WebApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "App.WebApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\5.Hafta\\webapi-2\\App\\App.WebApi\\Models\\Product.cs",
+              "RelativeToolTip": "App.WebApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:55:15.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

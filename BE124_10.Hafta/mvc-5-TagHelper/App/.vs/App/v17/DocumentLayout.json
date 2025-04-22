@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-5-taghelper\\app\\app.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-5-taghelper\\app\\app.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-5-taghelper\\app\\app.mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C9063A-0A3B-4CFE-B4EB-87371F7EE7D7}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "App.Mvc\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "App.Mvc\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:38:25.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T18:42:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "App.Mvc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-5-TagHelper\\App\\App.Mvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "App.Mvc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:37:35.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

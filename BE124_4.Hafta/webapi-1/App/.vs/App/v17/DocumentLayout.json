@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\4.hafta\\webapi-1\\app\\app.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|solutionrelative:app.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\4.hafta\\webapi-1\\app\\app.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|solutionrelative:app.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\4.hafta\\webapi-1\\app\\app.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D67F611-78EF-40B3-A106-75BF29CD400F}|App.WebApi\\App.WebApi.csproj|solutionrelative:app.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "App.WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "App.WebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:31:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "App.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "App.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:30:54.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "App.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\4.Hafta\\webapi-1\\App\\App.WebApi\\Program.cs",
+              "RelativeToolTip": "App.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:53:34.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\bin\Debug\net8.0\App.Data.deps.json
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\bin\Debug\net8.0\App.Data.runtimeconfig.json
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\bin\Debug\net8.0\App.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\bin\Debug\net8.0\App.Data.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.csproj.AssemblyReference.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfoInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfo.cs
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\refint\App.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\App.Data.genruntimeconfig.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\15.Hafta\3-Migration\App\App.Data\obj\Debug\net8.0\ref\App.Data.dll

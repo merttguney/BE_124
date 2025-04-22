@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML</title>
+
+    <style>
+        .table2 table, .table2 th, .table2 td{
+            border: 1px solid black;
+        }
+        .table3 table, .table3 th, .table3 td {
+            border: 1px solid black;
+            border-collapse:collapse;
+        }
+        .table4 table, .table4 th, .table4 td {
+            border: 1px solid black;
+            border-collapse:collapse;
+        }
+        .table5 table, .table5 th, .table5 td {
+            border: 1px solid black;
+            border-collapse:collapse;
+        }
+        .table6 table, .table6 th, .table6 td {
+            border: 1px solid black;
+            border-collapse:collapse;
+        }
+        .table6 tr:hover{
+            background-color:dimgray;
+            color:white;
+        }
+        .stil-1{
+            color:red;
+            background-color:lightblue;
+        }
+        #paragraf{
+            color:coral;
+        }
+    </style>
+
+</head>
+<body>
+    <!-- <html>  html dokümanýnýn ana elementidir -->
+    <!-- <head> sayfanýn ayarlarýnýn yapýldýðý kýsým -->
+    <!--<body> sayfa içerisinde yer alacak elementlerin/içeriklerin yerleþtirildiði kýsým-->
+    <!--BAÞLIK ELEMENTLERÝ-->
+
+    <h1>Baþlýk 1</h1>
+    <h2>Baþlýk 2</h2>
+    <h3>Baþlýk 3</h3>
+    <h4>Baþlýk 4</h4>
+    <h5>Baþlýk 5</h5>
+    <h6>Baþlýk 6</h6>
+
+    <!--PARAGRAF ELEMENTÝ-->
+    <p> Amet et et nam commodo ipsum ex magna feugiat tincidunt diam sanctus gubergren eirmod labore dolore dolores magna invidunt at gubergren voluptua zzril dolore est ipsum voluptua elit justo iusto invidunt invidunt ipsum dignissim at dolore invidunt ex erat sit lobortis molestie sea dolor takimata et duo et ut euismod </p>
+
+    <a href="https://www.siliconmadeacademy.com">  Siliconmade Academy'ye Hoþgeldiniz!  </a>
+
+    <br />
+    <br />
+
+    <!--Self-closing tags-->
+    <img src="https://picsum.photos/id/889/600/400" id="foto" />
+
+    <br />
+    <br />
+
+    <!--alt attribute'u-->
+    <img src="#" alt="Fotoðraf Gösterilemiyor" />
+
+    <br />
+    <br />
+
+    <!--width/height attribute'larý-->
+    <img src="https://picsum.photos/id/555/600/400" width="300" height="300" title="ne güzel foto" />
+
+
+    <!--HTML Attribute'larý-->
+
+    <p style="color:red;">Amet liber praesent te lorem dolore consectetuer sanctus gubergren lorem no lorem et duis elitr sit gubergren ut no sed</p>
+
+    <h1 title="bu bir baþlýktýr">TITLE ATTRIBUTE'U BURADA DENENÝR</h1>
+
+    <hr />
+
+    <!--HTML TEXT FORMATLAMA-->
+
+    <p><b>Et clita eos duo consectetuer commodo sit euismod dolor voluptua dolor sed hendrerit sanctus dolore ut nonummy eros et vero</b> </p>
+
+    <p><strong>Et clita eos duo consectetuer commodo sit euismod dolor voluptua dolor sed hendrerit sanctus dolore ut nonummy eros et vero</strong> </p>
+
+    <p><i>Et clita eum dolor gubergren kasd dolore sanctus voluptua imperdiet diam quis sed amet sed nonumy dolore amet at dolor</i> </p>
+
+    <p><em>Et clita eum dolor gubergren kasd dolore sanctus voluptua imperdiet diam quis sed amet sed nonumy dolore amet at dolor</em> </p>
+
+    <p>Ýnvidunt gubergren sit sed at dolores nam <mark>ea amet facilisi</mark> </p>
+
+    <p>Ýnvidunt gubergren sit sed at dolores nam <del>ea amet facilisi</del> </p>
+
+    <p>Ýnvidunt gubergren sit sed at dolores nam <ins>ea amet facilisi</ins> </p>
+
+    <p>H<sub>2</sub>O</p>
+
+    <p>E = m x C<sup>2</sup></p>
+
+
+    <hr />
+
+    <!--TABLOLAR-->
+    <!--tablolar table etiketi ile oluþturulur-->
+    <!--tr (table row) tablo satýrlarý oluþturmak için kullanýlýr.-->
+    <!--td (table data) her satýrdaki sütun elemanlarý için kullanýlýr-->
+    <!--th (table heading) tablo baþlýklarý için kullanýlýr-->
+
+    <table>
+        <tr>
+            <th>Öðrenci Adý</th>
+            <th>Öðrenci Numarasý</th>
+            <th>Not</th>
+        </tr>
+        <tr>
+            <td>Ahmet Yýlmaz</td>
+            <td>123</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Mehmet Kaya</td>
+            <td>321</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Ayþe Yýldýz</td>
+            <td>456</td>
+            <td>90</td>
+        </tr>
+    </table>
+
+    <hr />
+
+    <div class="table2">
+        <table>
+            <tr>
+                <th>Öðrenci Adý</th>
+                <th>Öðrenci Numarasý</th>
+                <th>Not</th>
+            </tr>
+            <tr>
+                <td>Ahmet Yýlmaz</td>
+                <td>123</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Mehmet Kaya</td>
+                <td>321</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>Ayþe Yýldýz</td>
+                <td>456</td>
+                <td>90</td>
+            </tr>
+        </table>
+    </div>
+
+
+    <hr />
+
+    <div class="table3">
+        <table>
+            <tr>
+                <th>Öðrenci Adý</th>
+                <th>Öðrenci Numarasý</th>
+                <th>Not</th>
+            </tr>
+            <tr>
+                <td>Ahmet Yýlmaz</td>
+                <td>123</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Mehmet Kaya</td>
+                <td>321</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>Ayþe Yýldýz</td>
+                <td>456</td>
+                <td>90</td>
+            </tr>
+        </table>
+    </div>
+
+    <hr />
+
+    <!--Tablolarda hücre birleþtirme-->
+    <!--colspan-->
+
+    <div class="table4">
+        <table>
+            <tr>
+                <th colspan="2">Ad Soyad</th>
+                <th>Yaþ</th>
+            </tr>
+            <tr>
+                <td>Ahmet</td>
+                <td>Yýlmaz</td>
+                <td>24</td>
+            </tr>
+            <tr>
+                <td>Mehmet</td>
+                <td>Yýldýz</td>
+                <td>34</td>
+            </tr>
+        </table>
+    </div>
+
+    <hr />
+
+    <!--Tablolarda hücre birleþtirme-->
+    <!--rowspan-->
+
+    <div class="table5">
+        <table>
+            <tr>
+                <th>Ýsim</th>
+                <td>Ahmet</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Telefon</th>
+                <td>+90 555 555 5555</td>
+            </tr>
+            <tr>
+                <td>+90 555 555 5555</td>
+            </tr>
+        </table>
+    </div>
+
+    <hr />
+
+    <div class="table6">
+        <table>
+            <tr>
+                <th>Öðrenci Adý</th>
+                <th>Öðrenci Numarasý</th>
+                <th>Not</th>
+            </tr>
+            <tr>
+                <td>Ahmet Yýlmaz</td>
+                <td>123</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Mehmet Kaya</td>
+                <td>321</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>Ayþe Yýldýz</td>
+                <td>456</td>
+                <td>90</td>
+            </tr>
+        </table>
+    </div>
+
+    <hr />
+
+    <!--LÝSTELER-->
+
+    <!--Sýralý liste-->
+    <!--Ordered-List-->
+    <ol>
+        <li>Çay</li>
+        <li>Kahve</li>
+        <li>Soda</li>
+    </ol>
+
+    <!--Sýrasýz Liste-->
+    <!--Unordered-List-->
+
+    <ul>
+        <li>Çay</li>
+        <li>Kahve</li>
+        <li>Soda</li>
+    </ul>
+
+    <hr />
+
+    <!--BLOCK, INLINE ELEMENTS-->
+
+    <span>Hello span</span>
+    <span>Hello span</span>
+
+    <div>Hello div</div>
+    <div>Hello div</div>
+
+    <div>
+        <a href="https://www.w3schools.com/html/html_blocks.asp" target="_blank">Block ve inline elementler listesi</a>
+    </div>
+
+    <hr />
+
+    <!--CLASS, ID KULLANIMI-->
+
+    <!--class attribute'u html elementleri gruplandýrmak ve ayný css özelliklerini verebilmek için kullanýlýr.-->
+
+    <div class="stil-1">stil-1 class'ýna sahip div</div>
+
+    <p class="stil-1">stil-1 class'ýna sahip p elementi</p>
+
+
+    <a href="#foto">Yukarý git</a>
+
+    <p id="paragraf">paragraf id'li p elementi</p>
+
+
+
+</body>
+</html>

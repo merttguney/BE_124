@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\views\\home\\unapprovedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\home\\unapprovedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\12.hafta\\6-roles-uygulama\\app\\app.web.mvc\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603FB0ED-1E39-4AC4-9BBB-6EEB3297E2E9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:49:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:44:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnapprovedUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Home\\UnapprovedUsers.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Home\\UnapprovedUsers.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Home\\UnapprovedUsers.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Home\\UnapprovedUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:29:51.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:20:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:15:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:43:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\12.Hafta\\6-Roles-Uygulama\\App\\App.Web.Mvc\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:43:42.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

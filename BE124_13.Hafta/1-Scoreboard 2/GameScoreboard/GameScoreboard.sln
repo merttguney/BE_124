@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameScoreboard.Mvc", "GameScoreboard.Mvc\GameScoreboard.Mvc.csproj", "{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameScoreboard.Data", "GameScoreboard.Data\GameScoreboard.Data.csproj", "{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F582FD-55DF-403D-A93B-C9EA3B80E06D}
+	EndGlobalSection
+EndGlobal

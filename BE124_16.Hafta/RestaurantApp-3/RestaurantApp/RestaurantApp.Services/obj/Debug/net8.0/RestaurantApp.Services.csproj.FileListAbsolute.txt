@@ -1,0 +1,5 @@
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Services\obj\Debug\net8.0\RestaurantApp.Services.csproj.AssemblyReference.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Services\obj\Debug\net8.0\RestaurantApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Services\obj\Debug\net8.0\RestaurantApp.Services.AssemblyInfoInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Services\obj\Debug\net8.0\RestaurantApp.Services.AssemblyInfo.cs
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Services\obj\Debug\net8.0\RestaurantApp.Services.csproj.CoreCompileInputs.cache

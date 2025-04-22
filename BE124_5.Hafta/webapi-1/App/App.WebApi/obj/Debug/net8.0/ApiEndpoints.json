@@ -1,0 +1,122 @@
+[
+  {
+    "ContainingType": "App.WebApi.Controllers.ProductController",
+    "Method": "Get",
+    "RelativePath": "api/Product/tufan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "Yonlendir3",
+    "RelativePath": "api/User/google",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "UserName",
+    "RelativePath": "api/User/name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "UserNameBold",
+    "RelativePath": "api/User/namebold",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "UserNameBold2",
+    "RelativePath": "api/User/namebold2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "UserNameBold3",
+    "RelativePath": "api/User/namebold3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "UserNameBold4",
+    "RelativePath": "api/User/namebold4",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "Yonlendir",
+    "RelativePath": "api/User/yonlendir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.UserController",
+    "Method": "Yonlendir2",
+    "RelativePath": "api/User/yonlendir2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

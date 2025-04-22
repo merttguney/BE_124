@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\views\\home\\withtempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\home\\withtempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\views\\home\\withviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\home\\withviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\views\\home\\withviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\home\\withviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\views\\home\\withviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\home\\withviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-1\\app\\app.web.mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E8AF26-0A5D-4A9F-9CE9-A00D3DDA24F9}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1781,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WithTempData.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithTempData.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Home\\WithTempData.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithTempData.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Home\\WithTempData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:34:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithViewData.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewData.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Home\\WithViewData.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewData.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Home\\WithViewData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:13:26.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithViewBag.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewBag.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Home\\WithViewBag.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewBag.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Home\\WithViewBag.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T18:32:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WithViewModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewModel.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\Home\\WithViewModel.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Views\\Home\\WithViewModel.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\Home\\WithViewModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T18:16:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:50:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-1\\App\\App.Web.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:14:17.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

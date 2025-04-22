@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|solutionrelative:gamescoreboard.data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.data\\entities\\highscoreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|solutionrelative:gamescoreboard.data\\entities\\highscoreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397DDE99-4A29-4E1D-95C0-6E83E0D2FC86}|GameScoreboard.Data\\GameScoreboard.Data.csproj|solutionrelative:gamescoreboard.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\1-scoreboard\\gamescoreboard\\gamescoreboard.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBE609B-F3F3-4443-8CAC-8559E730E0EC}|GameScoreboard.Mvc\\GameScoreboard.Mvc.csproj|solutionrelative:gamescoreboard.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\DataExtensions.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Data\\DataExtensions.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\DataExtensions.cs",
+              "RelativeToolTip": "GameScoreboard.Data\\DataExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:11:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "GameScoreboard.Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:06:03.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighScoreEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\Entities\\HighScoreEntity.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Data\\Entities\\HighScoreEntity.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Data\\Entities\\HighScoreEntity.cs",
+              "RelativeToolTip": "GameScoreboard.Data\\Entities\\HighScoreEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Program.cs",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T19:56:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T19:49:53.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:42:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T19:36:45.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GameScoreboard.Mvc\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\1-Scoreboard\\GameScoreboard\\GameScoreboard.Mvc\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GameScoreboard.Mvc\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:14:34.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

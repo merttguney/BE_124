@@ -1,0 +1,37 @@
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Dize1();
+            Dize1();
+            Dize2();
+            Dize3();
+            Dize1();
+            Dize2();
+            Dize3();
+        }
+        static void Dize1 ()
+        {
+            Console.WriteLine("Senden kalan tek anı bu    ");
+            Console.WriteLine("Solgun sayfadaki güller    ");
+            Console.WriteLine("Alır beni götürürler       ");
+            Console.WriteLine("Sevgi dolu yıllara         ");
+        }
+        static void Dize2 () 
+        {
+            Console.WriteLine("Ne kadar güzeldi o günler  ");
+            Console.WriteLine("Acının kucağındaki düşler  ");
+            Console.WriteLine("O sıcak eğlenceli günler   ");
+            Console.WriteLine("Şimdi arkadaş oldu bana    ");
+        }
+        static void Dize3 () 
+        {
+            Console.WriteLine("Ne kadar güzeldi o günler  ");
+            Console.WriteLine("Acının kucağındaki düşler  ");
+            Console.WriteLine("O sıcak eğlenceli günler   ");
+            Console.WriteLine("Şimdi arkadaş oldu bana    ");
+            Console.WriteLine("Senden kalan tek anı bu ahh");
+        }
+            
+    }
+}

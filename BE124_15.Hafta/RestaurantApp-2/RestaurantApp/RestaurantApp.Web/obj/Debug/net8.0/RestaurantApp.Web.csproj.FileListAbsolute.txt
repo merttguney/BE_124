@@ -1,0 +1,8 @@
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.csproj.AssemblyReference.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.AssemblyInfoInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.AssemblyInfo.cs
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.RazorAssemblyInfo.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\RestaurantApp\RestaurantApp-2\RestaurantApp\RestaurantApp.Web\obj\Debug\net8.0\RestaurantApp.Web.RazorAssemblyInfo.cs

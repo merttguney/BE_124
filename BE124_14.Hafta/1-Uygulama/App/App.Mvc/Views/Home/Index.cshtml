@@ -1,0 +1,16 @@
+﻿@using App.Mvc.Data.Entities
+@model List<UserEntity>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>User List</h1>
+
+    <ul>
+        @foreach (var user in Model)
+        {
+            <li>@user.Name</li>
+        }
+    </ul>
+</div>

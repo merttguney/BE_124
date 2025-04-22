@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\mvc-upload-download\\app\\app.web.mvc\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\mvc-upload-download\\app\\app.web.mvc\\views\\file\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\file\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\11.hafta\\mvc-upload-download\\app\\app.web.mvc\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A652ED-F538-4674-BF41-8BC3532A6450}|App.Web.Mvc\\App.Web.Mvc.csproj|solutionrelative:app.web.mvc\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 221,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Views\\File\\Upload.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\File\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Views\\File\\Upload.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\File\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T18:21:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Controllers\\FileController.cs",
+              "RelativeToolTip": "App.Web.Mvc\\Controllers\\FileController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAxwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:18:37.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileList.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Views\\File\\FileList.cshtml",
+              "RelativeDocumentMoniker": "App.Web.Mvc\\Views\\File\\FileList.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\11.Hafta\\mvc-upload-download\\App\\App.Web.Mvc\\Views\\File\\FileList.cshtml",
+              "RelativeToolTip": "App.Web.Mvc\\Views\\File\\FileList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T19:12:12.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

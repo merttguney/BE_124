@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "App.WebApi.Controllers.OutputsController",
+    "Method": "ItalicName",
+    "RelativePath": "api/Outputs/italic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.OutputsController",
+    "Method": "Product",
+    "RelativePath": "api/Outputs/product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.OutputsController",
+    "Method": "SiliconmadeRedirect",
+    "RelativePath": "api/Outputs/siliconmade",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.OutputsController",
+    "Method": "SiliconmadeRedirectToAction",
+    "RelativePath": "api/Outputs/siliconmade-yonlendir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

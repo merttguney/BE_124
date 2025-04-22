@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\models\\customerordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\models\\customerordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\data\\dbseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\dbseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\8.hafta\\ef-core-3\\app\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50CC4B-8D6B-4BC0-8D1A-98A06C460A21}|App.Api\\App.Api.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "App.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\appsettings.json",
+              "RelativeToolTip": "App.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:53:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Models\\CustomerOrderModel.cs",
+              "RelativeDocumentMoniker": "App.Api\\Models\\CustomerOrderModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Models\\CustomerOrderModel.cs",
+              "RelativeToolTip": "App.Api\\Models\\CustomerOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:39:38.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwFwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:55:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSeed.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\DbSeed.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\DbSeed.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\DbSeed.cs",
+              "RelativeToolTip": "App.Api\\Data\\DbSeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:46:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Program.cs",
+              "RelativeDocumentMoniker": "App.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Program.cs",
+              "RelativeToolTip": "App.Api\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:48:55.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "App.Api\\Data\\Entities\\OrderEntity.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:38:07.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "App.Api\\Data\\Entities\\CustomerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:28:48.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\8.Hafta\\ef-core-3\\App\\App.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "App.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:24:03.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

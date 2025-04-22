@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\wwwroot\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\wwwroot\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_featuredposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_featuredposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_featuredsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_featuredsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\10.hafta\\mvc-3-uygulama\\app\\app.mvc\\views\\shared\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F43DBE-CC07-43BE-9B53-484DBC635533}|App.Mvc\\App.Mvc.csproj|solutionrelative:app.mvc\\views\\shared\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1781,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "App.Mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "App.Mvc\\wwwroot\\docs\\5.3\\dist\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T19:43:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blog.css",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\blog.css",
+              "RelativeDocumentMoniker": "App.Mvc\\wwwroot\\blog.css",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\blog.css",
+              "RelativeToolTip": "App.Mvc\\wwwroot\\blog.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T19:39:21.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "color-modes.js",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js",
+              "RelativeDocumentMoniker": "App.Mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js",
+              "RelativeToolTip": "App.Mvc\\wwwroot\\docs\\5.3\\assets\\js\\color-modes.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwE8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T19:33:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:24:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:04:20.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:16:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Header.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Header.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:07:27.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:15:22.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_FeaturedPosts.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_FeaturedPosts.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_FeaturedPosts.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_FeaturedPosts.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_FeaturedPosts.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:13:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_FeaturedSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_FeaturedSingle.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_FeaturedSingle.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_FeaturedSingle.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_FeaturedSingle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:11:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "App.Mvc\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\10.Hafta\\mvc-3-uygulama\\App\\App.Mvc\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "RelativeToolTip": "App.Mvc\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:10:09.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

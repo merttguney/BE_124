@@ -1,0 +1,12 @@
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\bin\Debug\net8.0\BlogApp.Data.deps.json
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\bin\Debug\net8.0\BlogApp.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\bin\Debug\net8.0\BlogApp.Data.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.csproj.AssemblyReference.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.AssemblyInfo.cs
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\refint\BlogApp.Data.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\BlogApp.Data.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\13.Hafta\3-BlogApp\BlogApp\BlogApp.Data\obj\Debug\net8.0\ref\BlogApp.Data.dll

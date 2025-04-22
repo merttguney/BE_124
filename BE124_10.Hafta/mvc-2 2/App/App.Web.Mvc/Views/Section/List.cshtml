@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "List";
+
+    List<string> users = ViewData["users"] as List<string> ?? new();
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's list.</p>
+
+@section Styles {
+    <style>
+        body{
+            background-color: #666666;
+            color: #fff;
+        }
+    </style>
+}
+
+@section Scripts {
+    <script>
+        alert("Privacy'desiniz...");
+    </script>
+}
+
+<div>
+    <partial name="Partials/UserList" model="users" />
+</div>

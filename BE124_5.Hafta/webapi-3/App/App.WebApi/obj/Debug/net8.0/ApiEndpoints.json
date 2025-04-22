@@ -1,0 +1,135 @@
+[
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "NameList",
+    "RelativePath": "api/JSON/array-to-json",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "ProductList",
+    "RelativePath": "api/JSON/list-json",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "ProductList2",
+    "RelativePath": "api/JSON/list-json-content",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "ProductList3",
+    "RelativePath": "api/JSON/list-to-json-and-back",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "GetPersonWithContentResult",
+    "RelativePath": "api/JSON/list-with-result",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "GetPersonWithContentResult2",
+    "RelativePath": "api/JSON/list-with-result2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[App.WebApi.Controllers.Product, App.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "Get",
+    "RelativePath": "api/JSON/ok-json",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.WebApi.Controllers.JSONController",
+    "Method": "ProductPriceTry",
+    "RelativePath": "api/JSON/product-price-as-try",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "App.WebApi.Controllers.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "App.WebApi.Controllers.Product",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

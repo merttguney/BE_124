@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF58C6E1-0DDB-4852-8C37-EFC9DD4C87F3}|BlogApp.Data\\BlogApp.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF58C6E1-0DDB-4852-8C37-EFC9DD4C87F3}|BlogApp.Data\\BlogApp.Data.csproj|solutionrelative:blogapp.data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF58C6E1-0DDB-4852-8C37-EFC9DD4C87F3}|BlogApp.Data\\BlogApp.Data.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF58C6E1-0DDB-4852-8C37-EFC9DD4C87F3}|BlogApp.Data\\BlogApp.Data.csproj|solutionrelative:blogapp.data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\views\\home\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\views\\home\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\models\\newblogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\models\\newblogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\13.hafta\\3-blogapp\\blogapp\\blogapp.mvc\\models\\blogtableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282FE07-B196-4AA9-9EB8-F293846A56D3}|BlogApp.Mvc\\BlogApp.Mvc.csproj|solutionrelative:blogapp.mvc\\models\\blogtableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 556,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogApp.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:01:12.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.Data\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Data\\BlogDbContext.cs",
+              "RelativeToolTip": "BlogApp.Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:00:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "BlogApp.Mvc\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:58:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:52:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:52:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "BlogApp.Mvc\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:37:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogApp.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:24:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Views\\Home\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Views\\Home\\AddBlog.cshtml",
+              "RelativeToolTip": "BlogApp.Mvc\\Views\\Home\\AddBlog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:15:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewBlogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\NewBlogViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Models\\NewBlogViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\NewBlogViewModel.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Models\\NewBlogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:44:27.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:14:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogTableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\BlogTableViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Models\\BlogTableViewModel.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Models\\BlogTableViewModel.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Models\\BlogTableViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:20:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\appsettings.json",
+              "RelativeToolTip": "BlogApp.Mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T18:10:08.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Data\\DataExtensions.cs",
+              "RelativeDocumentMoniker": "BlogApp.Data\\DataExtensions.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Data\\DataExtensions.cs",
+              "RelativeToolTip": "BlogApp.Data\\DataExtensions.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:59:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\13.Hafta\\3-BlogApp\\BlogApp\\BlogApp.Mvc\\Program.cs",
+              "RelativeToolTip": "BlogApp.Mvc\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAWwEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:53:27.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

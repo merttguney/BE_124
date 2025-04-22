@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|c:\\users\\tufangungor\\desktop\\tufan g\u00FCng\u00F6r\\sma\\be124\\restaurantapp\\restaurantapp-2\\restaurantapp\\restaurantapp.services\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD584F88-5E8E-45C6-A27D-7BF03D34805A}|RestaurantApp.Services\\RestaurantApp.Services.csproj|solutionrelative:restaurantapp.services\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:28:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:32:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:29:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:33:35.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:30:07.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Services\\Repositories\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\TufanGungor\\Desktop\\Tufan G\u00FCng\u00F6r\\SMA\\BE124\\RestaurantApp\\RestaurantApp-2\\RestaurantApp\\RestaurantApp.Services\\Repositories\\SaleRepository.cs",
+              "RelativeToolTip": "RestaurantApp.Services\\Repositories\\SaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:36:50.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

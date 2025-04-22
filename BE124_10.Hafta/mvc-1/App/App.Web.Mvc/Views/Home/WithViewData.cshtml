@@ -1,0 +1,65 @@
+﻿@{
+    // var data = ViewData["Products"] as List<ProductViewModel>;
+
+    var rawData = ViewData["Products"];
+    var data = rawData as List<ProductViewModel>; // cast etme
+
+    // var data2 = (List<ProductViewModel>)rawData; // cast etme 2. yöntem
+}
+
+@* <table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in data)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table> *@
+
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (data is null)
+        {
+            <tr>
+                <td>Data is null</td>
+            </tr>
+        }
+        else if (data.Count == 0)
+        {
+            <tr>
+                <td>no Data</td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var product in data)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                </tr>
+            }
+        }       
+    </tbody>
+</table>

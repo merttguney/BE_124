@@ -1,0 +1,12 @@
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\bin\Debug\net8.0\App.Business.deps.json
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\bin\Debug\net8.0\App.Business.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\bin\Debug\net8.0\App.Business.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.csproj.AssemblyReference.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.AssemblyInfoInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.AssemblyInfo.cs
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.csproj.CoreCompileInputs.cache
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\refint\App.Business.dll
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\App.Business.pdb
+C:\Users\TufanGungor\Desktop\Tufan Güngör\SMA\BE124\14.Hafta\3-Uygulama\App\App.Business\obj\Debug\net8.0\ref\App.Business.dll
